@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["dom", "dom.iterable"],
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "jsx": "preserve"
+  },
+  "include": [
+    "**/*.tsx"
+  ],
+  "exclude": ["node_modules"]
+}
